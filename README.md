@@ -18,3 +18,7 @@ It detects face, eyes, and head pose to estimate focus level — useful for onli
 1. Install dependencies  
    ```bash
    pip install -r requirements.txt
+
+2. Start the tracker
+    ```bash
+    python ml.py
